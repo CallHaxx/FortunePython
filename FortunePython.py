@@ -1,6 +1,6 @@
 import random
 mylist = ["Yes!", "No!", "Maybe..."]
 res = mylist
-print("please type in the console.")
+print("What do you want to know?")
 input()
 print (random.choice(mylist))
